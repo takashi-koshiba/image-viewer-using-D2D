@@ -13,7 +13,7 @@
     <a href="https://github.com/takashi-koshiba/image-viewer-using-D2D/releases">ここ</a>からリポジトリをクローンします。<br>
   </li>
 <li>
-   画像の規定アプリをこのアプリに変更して画像をファイルを開くか、exeファイルを起動してください。
+   画像の規定アプリをこのアプリに変更して画像ファイルを開くか、exeファイルを起動してください。
 </li>
  
 </p>
