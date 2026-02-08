@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\make\\c-plus\\imagelodar2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC3C0A1-BA8F-44DB-B751-FDFBED40D20C}|imagelodar2.vcxproj|D:\\make\\c-plus\\imagelodar2\\direct2dTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CBC3C0A1-BA8F-44DB-B751-FDFBED40D20C}|imagelodar2.vcxproj|solutionrelative:direct2dTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC3C0A1-BA8F-44DB-B751-FDFBED40D20C}|imagelodar2.vcxproj|D:\\make\\c-plus\\imagelodar2\\wicTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CBC3C0A1-BA8F-44DB-B751-FDFBED40D20C}|imagelodar2.vcxproj|solutionrelative:wicTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC3C0A1-BA8F-44DB-B751-FDFBED40D20C}|imagelodar2.vcxproj|D:\\make\\c-plus\\imagelodar2\\direct2dTest.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CBC3C0A1-BA8F-44DB-B751-FDFBED40D20C}|imagelodar2.vcxproj|solutionrelative:direct2dTest.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC3C0A1-BA8F-44DB-B751-FDFBED40D20C}|imagelodar2.vcxproj|D:\\make\\c-plus\\imagelodar2\\framework.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CBC3C0A1-BA8F-44DB-B751-FDFBED40D20C}|imagelodar2.vcxproj|solutionrelative:framework.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC3C0A1-BA8F-44DB-B751-FDFBED40D20C}|imagelodar2.vcxproj|D:\\make\\c-plus\\imagelodar2\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CBC3C0A1-BA8F-44DB-B751-FDFBED40D20C}|imagelodar2.vcxproj|solutionrelative:pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC3C0A1-BA8F-44DB-B751-FDFBED40D20C}|imagelodar2.vcxproj|D:\\make\\c-plus\\imagelodar2\\wicTest.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CBC3C0A1-BA8F-44DB-B751-FDFBED40D20C}|imagelodar2.vcxproj|solutionrelative:wicTest.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC3C0A1-BA8F-44DB-B751-FDFBED40D20C}|imagelodar2.vcxproj|D:\\make\\c-plus\\imagelodar2\\pch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CBC3C0A1-BA8F-44DB-B751-FDFBED40D20C}|imagelodar2.vcxproj|solutionrelative:pch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC3C0A1-BA8F-44DB-B751-FDFBED40D20C}|imagelodar2.vcxproj|D:\\make\\c-plus\\imagelodar2\\dllmain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CBC3C0A1-BA8F-44DB-B751-FDFBED40D20C}|imagelodar2.vcxproj|solutionrelative:dllmain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "pch.h",
+              "DocumentMoniker": "D:\\make\\c-plus\\imagelodar2\\pch.h",
+              "RelativeDocumentMoniker": "pch.h",
+              "ToolTip": "D:\\make\\c-plus\\imagelodar2\\pch.h",
+              "RelativeToolTip": "pch.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-26T07:38:15.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "pch.cpp",
+              "DocumentMoniker": "D:\\make\\c-plus\\imagelodar2\\pch.cpp",
+              "RelativeDocumentMoniker": "pch.cpp",
+              "ToolTip": "D:\\make\\c-plus\\imagelodar2\\pch.cpp",
+              "RelativeToolTip": "pch.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-26T07:33:16.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "framework.h",
+              "DocumentMoniker": "D:\\make\\c-plus\\imagelodar2\\framework.h",
+              "RelativeDocumentMoniker": "framework.h",
+              "ToolTip": "D:\\make\\c-plus\\imagelodar2\\framework.h",
+              "RelativeToolTip": "framework.h",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-26T07:17:22.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "direct2dTest.cpp",
+              "DocumentMoniker": "D:\\make\\c-plus\\imagelodar2\\direct2dTest.cpp",
+              "RelativeDocumentMoniker": "direct2dTest.cpp",
+              "ToolTip": "D:\\make\\c-plus\\imagelodar2\\direct2dTest.cpp",
+              "RelativeToolTip": "direct2dTest.cpp",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAAHoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-26T07:13:35.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "wicTest.h",
+              "DocumentMoniker": "D:\\make\\c-plus\\imagelodar2\\wicTest.h",
+              "RelativeDocumentMoniker": "wicTest.h",
+              "ToolTip": "D:\\make\\c-plus\\imagelodar2\\wicTest.h",
+              "RelativeToolTip": "wicTest.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-26T07:05:16.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "wicTest.cpp",
+              "DocumentMoniker": "D:\\make\\c-plus\\imagelodar2\\wicTest.cpp",
+              "RelativeDocumentMoniker": "wicTest.cpp",
+              "ToolTip": "D:\\make\\c-plus\\imagelodar2\\wicTest.cpp",
+              "RelativeToolTip": "wicTest.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAjwCIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-26T07:04:53.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "direct2dTest.h",
+              "DocumentMoniker": "D:\\make\\c-plus\\imagelodar2\\direct2dTest.h",
+              "RelativeDocumentMoniker": "direct2dTest.h",
+              "ToolTip": "D:\\make\\c-plus\\imagelodar2\\direct2dTest.h",
+              "RelativeToolTip": "direct2dTest.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-26T07:03:38.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "dllmain.cpp",
+              "DocumentMoniker": "D:\\make\\c-plus\\imagelodar2\\dllmain.cpp",
+              "RelativeDocumentMoniker": "dllmain.cpp",
+              "ToolTip": "D:\\make\\c-plus\\imagelodar2\\dllmain.cpp",
+              "RelativeToolTip": "dllmain.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-26T05:28:47.454Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
