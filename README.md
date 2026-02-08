@@ -10,7 +10,7 @@
 <h2>起動方法</h2>
 <ul>
   <li>
-    <a href="https://github.com/takashi-koshiba/image-viewer-using-D2D/releases">ここ</a>ここからリポジトリをクローンします。<br>
+    <a href="https://github.com/takashi-koshiba/image-viewer-using-D2D/releases">ここ</a>からリポジトリをクローンします。<br>
   </li>
 <li>
    画像の規定アプリをこのアプリに変更して画像をファイルを開くか、exeファイルを起動してください。
