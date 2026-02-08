@@ -1,0 +1,17 @@
+# Visual Studio
+.vs/
+bin/
+obj/
+x64/
+Debug/
+Release/
+
+# User-specific files
+*.user
+*.suo
+
+# Debug artifacts
+*.pdb
+*.ilk
+*.exp
+*.log
