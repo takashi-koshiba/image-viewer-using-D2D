@@ -15,3 +15,14 @@ Release/
 *.ilk
 *.exp
 *.log
+*.lib
+*.dll
+*.exe
+*.iobj
+*.ipdb
+*.cache
+*.userprefs
+
+# OS
+.DS_Store
+Thumbs.db
